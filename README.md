@@ -9,12 +9,16 @@ A comprehensive dashboard for analyzing Indian agricultural data from 1950 to 20
 - Beautiful, responsive UI with Mantine components
 - Type-safe implementation with TypeScript
 
+## Screenshots
+
+![Crop Production Analysis](https://github.com/AmanSagar0607/Indian-Agriculture-Analytics-/blob/main/Indian%20Agriculture%20Data%20Analytics%20Dashboard.png)
+
 ## Getting Started
 
 1. Clone the repository
 2. Install dependencies:
    ```bash
-   npm install
+   yarn install
    ```
 3. Start the development server:
    ```bash
@@ -39,10 +43,6 @@ src/
 - Mantine v7
 - Vite
 - Tailwind CSS
-
-## Screenshots
-
-[Screenshots will be added after deployment]
 
 ## License
 
